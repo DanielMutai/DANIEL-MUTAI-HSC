@@ -1,0 +1,34 @@
+{
+  "awards": [
+    {
+      "year": "2025",
+      "name": "Head of State Commendation (HSC)",
+      "issuer": "Republic of Kenya"
+    },
+    {
+      "year": "2023",
+      "name": "Teacher of the Year",
+      "issuer": "Kenya National Union of Teachers"
+    },
+    {
+      "year": "Recognition",
+      "name": "County government recognition",
+      "issuer": "Narok and Bomet county governments"
+    },
+    {
+      "year": "Recognition",
+      "name": "National Council for Persons with Disabilities (NCPWD) recognition",
+      "issuer": "National Council for Persons with Disabilities"
+    },
+    {
+      "year": "Recognition",
+      "name": "Teachers Service Commission (TSC) recognition",
+      "issuer": "Teachers Service Commission"
+    },
+    {
+      "year": "Recognition",
+      "name": "Parliamentary education leadership recognition",
+      "issuer": "Parliamentary Committee on Education"
+    }
+  ]
+}
